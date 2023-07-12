@@ -6,12 +6,13 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-
+  
+  USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxdbe3d9a7960f132b',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'e0feff77a5a9d2e07df81fb065b8fe79',
+  APP_SECRET: '',
 
   PROVINCE: '广东',
   CITY: '深圳',
@@ -21,9 +22,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小懒鹅',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oP12u6ew6ClD9wEZoVgsZDASQGvA',
+      id: 'bf4467fb165e4bfcb4795b1fd036970d',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wfopsYYrWUZ5Qk8_8YL6ZxFDN5s8ESIBRuiHvabDu8U',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-17',
       festivals: [
