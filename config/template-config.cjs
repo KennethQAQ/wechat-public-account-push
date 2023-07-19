@@ -7,7 +7,7 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
-      今天是我们恋爱的第{{loveday.DATA}}天啦！
+      今天是我们恋爱的第{{love_day.DATA}}天啦！
       ---
       
       城市：{{city.DATA}}
