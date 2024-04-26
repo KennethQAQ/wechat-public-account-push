@@ -37,6 +37,9 @@ const USER_CONFIG = {
           type: '生日', name: '小懒鹅', year: '2001', date: '05-17',
         },
         {
+          type: '生日', name: '小懒猪', year: '2000', date: '12-13',
+        },
+        {
           type: '节日', name: '恋爱纪念日2', year: '2023', date: '07-16',
         },
         {
@@ -68,6 +71,9 @@ const USER_CONFIG = {
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '小懒鹅', year: '2001', date: '05-17',
+        },
+        {
+          type: '生日', name: '小懒猪', year: '2000', date: '12-13',
         },
         {
           type: '节日', name: '恋爱纪念日2', year: '2023', date: '07-16',
