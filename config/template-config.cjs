@@ -9,6 +9,7 @@ const TEMPLATE_CONFIG = [
       下个休息日：{{holidaytts.DATA}}
       今天是我们恋爱的第{{love_day.DATA}}天啦！每天都要多和宝宝说话哦~
       宝宝多吃蔬菜要啦健康的鼠鼠！
+      下次和宝宝打电话要等到五一了有点想宝宝，这几天我要乖乖写作业！
       ---
       
       城市：{{city.DATA}}
