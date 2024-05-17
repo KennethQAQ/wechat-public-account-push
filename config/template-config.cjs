@@ -8,7 +8,7 @@ const TEMPLATE_CONFIG = [
       
       下个休息日：{{holidaytts.DATA}}
       今天是我们恋爱的第{{love_day.DATA}}天啦！每天都要多和宝宝说话哦~
-      今天是宝宝生日，宝宝生日快乐！
+      早安宝宝啵啵啵啵！
       ---
       
       城市：{{city.DATA}}
